@@ -11,8 +11,8 @@ require 'sinatra'
 
 include REXML
 
-apikey=""#eec6c424a7c955d10ff39766842475f7
-secret=""#bbf27ca673d33706"
+apikey=""
+secret=""
 $frob=""
 $token=""
 $Authurl=""
